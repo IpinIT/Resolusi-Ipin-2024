@@ -1,5 +1,5 @@
 Resolusi Optional :
 1. Tunangan dengan pasangan
  * Membuat kelas coding dari tim di KZM
- * Persiapan materi pembelajaran Javascript dasar
-2. Membuat project dari materi yang sudah dipelajari
+ * Persiapan materi pertama : HTML DASAR
+ * Persiapan materi pertama : CSS DASAR
