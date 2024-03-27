@@ -5,3 +5,4 @@ Resolusi Optional :
 2. Membuat kelas coding untuk teman teman
  * Membuat kelas coding dari tim di KZM
  * Persiapan materi pertama : HTML DASAR
+ * Persiapan materi pertama : CSS DASAR
