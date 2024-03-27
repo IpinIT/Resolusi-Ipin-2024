@@ -1,5 +1,5 @@
 Resolusi Optional :
-1. Tunangan dengan pasangan
+1. Membuat kelas belajar bersama
  * Membuat kelas coding dari tim di KZM
  * Persiapan materi pertama : HTML DASAR
  * Persiapan materi pertama : CSS DASAR
