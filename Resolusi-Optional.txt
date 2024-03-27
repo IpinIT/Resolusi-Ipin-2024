@@ -4,3 +4,4 @@ Resolusi Optional :
   * Memilih tempat untuk pemberian cincin
 2. Membuat kelas coding untuk teman teman
  * Membuat kelas coding dari tim di KZM
+ * Persiapan materi pertama : HTML DASAR
