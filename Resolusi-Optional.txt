@@ -1,3 +1,5 @@
 Resolusi Optional :
 1. Tunangan dengan pasangan
+  * Membeli cincin tunangan
+  * Memilih tempat untuk pemberian cincin
 2. Membuat kelas coding untuk teman teman
